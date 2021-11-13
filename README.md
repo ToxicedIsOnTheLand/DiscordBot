@@ -1,2 +1,4 @@
 # DiscordBot
-random repo
+a random repo
+# Commands
+- ?say [text]
