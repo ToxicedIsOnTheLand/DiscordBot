@@ -115,6 +115,6 @@ async def unmute(ctx, user : discord.Member):
 @unmute.error
 async def clear_error(ctx, error):
     if isinstance(error, commands.MissingPermissions):
-        await ctx.send(f"{ctx.message.author.mention} You do not have Permissions to use this Command!")                       
-                          
+        await ctx.send(f"{ctx.message.author.mention} You do not have Permissions to use this Command!")                                                                                 
+                  
 client.run('TOKEN') #use client.run(os.getenv('ENV_TOKEN') for replit dotenv
