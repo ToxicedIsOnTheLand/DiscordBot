@@ -1,5 +1,5 @@
 - [ ] Announcement
-- [ ] Embeded Announcement
+- [ ] Embedded Announcement
 - [ ] Buttons on Embeds
 - [ ] Reactions
 - [x] Custom Commands
