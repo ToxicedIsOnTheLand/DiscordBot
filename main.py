@@ -40,7 +40,7 @@ async def clear_error(ctx, error):
 async def unban(ctx, *, member_id: int):
   try:
     await ctx.guild.unban(discord.Object(id=member_id))
-    embed = discord.Embed(title="Unbanned User", description="Specific user has been Unbanned
+    embed = discord.Embed(title="Unbanned User", description="Specific user has been Unbanned")
     await ctx.reply(embed=embed)
   except:
     embed = discord.Embed(title="Cannot unban User!", description="Cannot unban the specific User!")
