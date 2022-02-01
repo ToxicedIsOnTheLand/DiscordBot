@@ -3,4 +3,4 @@
 - [ ] Buttons on Embeds
 - [ ] Reactions
 - [x] Custom Commands
-- [ ] Fix the Purge and Say command
+- [x] Fix the Purge and Say command
