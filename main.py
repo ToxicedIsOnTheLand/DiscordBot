@@ -17,7 +17,7 @@ async def on_ready():
 @client.command(name="say")
 @commands.has_permissions(administrator=True)
 async def say(ctx, *, text):
-  await ctx.send("{text}")
+  await ctx.send(text)
 
 @client.command(name="ban")
 @commands.has_permissions(ban_members = True)
