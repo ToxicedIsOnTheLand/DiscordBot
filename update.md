@@ -1,1 +1,2 @@
 UPDATE 1/30/22: Updated the Unbanned Line because it has caused Errors
+UPDATE 2/4/22: Cancelled Stuff and Fixed the say Command
