@@ -1,6 +1,6 @@
 - [ ] Announcement
 - [ ] Embedded Announcement
-- [ ] Buttons on Embeds
-- [ ] Reactions
+- ~~Buttons on Embeds~~
+- ~~Reactions~~
 - [x] Custom Commands
 - [x] Fix the Purge and Say command
