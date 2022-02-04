@@ -1,4 +1,4 @@
-# DiscordBot
+# Discord Bot
 Free to Use
 - have to credit me in embeds or in news/announcements
 # Commands
