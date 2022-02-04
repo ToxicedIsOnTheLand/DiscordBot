@@ -1,6 +1,6 @@
 # DiscordBot
-this is free to use and you can freely say "i made this by myself" lol
-- i would update this when a newer version of discord.py is available 
+Free to Use
+- have to credit me in embeds or in news/announcements
 # Commands
 - ?say [text]
 - ?ban [user]
