@@ -1,5 +1,6 @@
 # Discord Bot
 - more commands when i have used pycord
+- Unreal Bot developers are not allowed to use this
 # Free to Use
 - have to credit me in embeds or in news/announcements
 - if you havent credit me yet then **DO IT** ***NOW***
