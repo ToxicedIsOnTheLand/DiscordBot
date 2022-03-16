@@ -6,6 +6,12 @@ from discord.utils import get
 from discord.ext import commands, tasks
 from discord.ext.commands import has_permissions,  CheckFailure, check
 
+# Unreal Bot developers are not allowed to use this
+
+# Unreal Bot developers are not allowed to use this
+
+# Unreal Bot developers are not allowed to use this
+
 client = discord.Client()
 
 client = commands.Bot(command_prefix = '?') #replace the ? to your own prefix
