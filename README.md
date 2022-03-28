@@ -1,5 +1,5 @@
 # Discord Bot
-- more commands when i have used pycord
+- requirement: discord, disnake, and discord-py-slash-command
 - Unreal Bot developers are not allowed to use this
 # Free to Use
 - have to credit me in embeds or in news/announcements
@@ -12,12 +12,16 @@
 - ?mute [user/user_id]
 - ?unmute [user/user_id]
 - ?membercount 
-# UPDATE:
-- disnake will be used
+# REQUIREMENTS:
+- disnake 
 ```
 pip install disnake
 ```
-- discord-py-slash-command will be used
+- discord-py-slash-command 
 ```
 pip install discord-py-slash-command
+```
+- discord
+```
+pip install discord
 ```
