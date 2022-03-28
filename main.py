@@ -82,7 +82,7 @@ async def on_command_error(inter, error):
     if isinstance(error, commands.CommandOnCooldown):
         await inter.send(f'This Command is in Cooldown! use it in {round(error.retry_after, 2)}')
 
-@clean.error
+@purge.error
 async def clear_error(inter, error):
     if isinstance(error, commands.MissingPermissions):
       await inter.send(f"{inter.author.mention} You do not have Permissions to use this Command!")
