@@ -39,11 +39,11 @@ async def say(inter, text):
 async def ban(inter, user : discord.User, *, reason=None):
   try:
     await user.ban(reason=reason)
-    embed = disnake.Embed(title="User has been Banned", description=f"{ctx.mention} has been banned by {ctx.author.mention}")
+    embed = disnake.Embed(title="User has been Banned", description=f"{inter.mention} has been banned by {inter.author.mention}")
     await inter.send(embed=embed)
   except:
-    embed = disnake.Embed(title="User cannot be Banned", description=f"cannot ban {ctx.mention}!")
-    await inter.reply(embed=embed)
+    embed = disnake.Embed(title="User cannot be Banned", description=f"cannot ban {inter.mention}!")
+    await inter.send(embed=embed)
 
 @ban.error
 async def clear_error(inter, error):
