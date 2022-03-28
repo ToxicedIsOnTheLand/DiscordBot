@@ -1,2 +1,3 @@
 - UPDATE 1/30/22: Updated the Unbanned Line because it has caused Errors
 - UPDATE 2/4/22: Cancelled Stuff and Fixed the say Command
+- UPDATE 3/28/22: removed discord.py and used disnake with discord-py-slash-command for button and slash command support also updated nearly all of the command
