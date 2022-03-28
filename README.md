@@ -4,6 +4,10 @@
 # Free to Use
 - have to credit me in embeds or in news/announcements
 - if you havent credit me yet then **DO IT** ***NOW***
+- clone the repo using
+```
+git clone https://github.com/ToxicedIsOnTheLand/DiscordBot
+```
 # Commands
 - ?say [text]
 - ?ban [user]
