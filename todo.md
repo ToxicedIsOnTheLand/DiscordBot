@@ -6,3 +6,4 @@
 - [x] Fix the Purge and Say command
 - [ ] beat up command
 - [ ] embedded say command
+- [x] slash commands
