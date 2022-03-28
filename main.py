@@ -133,4 +133,4 @@ async def membercount(inter):
 # will test out 2 more commands in the next update     
       
 from config import TOKEN
-client.run(TOKEN) #use client.run(os.getenv('ENV_TOKEN') for replit dotenv
+client.run(TOKEN) # does not hide your token in replit
