@@ -12,3 +12,12 @@
 - ?mute [user/user_id]
 - ?unmute [user/user_id]
 - ?membercount 
+# UPDATE:
+- disnake will be used
+```
+pip install disnake
+```
+- discord-py-slash-command will be used
+```
+pip install discord-py-slash-command
+```
