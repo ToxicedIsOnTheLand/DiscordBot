@@ -1,0 +1,2 @@
+delete: README.md, todo.md, and update.md
+know about discord.py, pycord, hikari, nextcord, or disnake to improve the code or expand it, you will also have rights to fork this github repo
