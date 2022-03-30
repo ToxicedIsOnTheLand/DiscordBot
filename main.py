@@ -24,7 +24,7 @@ intents.reactions = True
 
 client = commands.InteractionBot(test_guilds=[GUILD_ID])
 
-client = commands.Bot(command_prefix = '?') #replace the ? to your own prefix
+client = commands.Bot(command_prefix = '?') #replace the ? to your own prefix not needed for slash commands... this will break the code 
 
 @client.event
 async def on_ready():
